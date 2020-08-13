@@ -3,7 +3,7 @@ FROM python:3.6-alpine
 ENV TOPICO=meu-topico
 ENV HOST=0.0.0.0
 ENV PORTA=9092
-ENV WEBHOOK=inserir-webhook
+#ENV WEBHOOK=webhook-for-teams
 ENV CANAL=lab-produtor
 #ENV CANAL=lab-testes
 

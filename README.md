@@ -12,3 +12,4 @@ Vamos criar variáveis de ambiente:
 > export PORTA=9092 
 
 > echo $TOPICO $HOST $PORTA
+# python-producer-kafka
